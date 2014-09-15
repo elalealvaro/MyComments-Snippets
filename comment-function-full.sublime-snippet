@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+	/** 
+	 * ${1:Comment} 
+	 * @param ${2:Param}
+	 * @return ${3:Return}
+	 **/
+]]></content>
+	<tabTrigger>mycomm-function-detail</tabTrigger>
+	<description>MyComments - Function comment with details.</description>
+</snippet>
