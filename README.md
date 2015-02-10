@@ -4,14 +4,14 @@ MyComments-Snippets
 Some useful and fancy comment styles to use in our PHP, HTML and CSS codes.
 
 ```
-mycomm-function
+cm-function
 
 	/**
 	 * Comment
 	 **/
 ```
 ```
-mycomm-function-detail
+cm-function-detail
 	/**
 	 * Comment
 	 * @paran Param

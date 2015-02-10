@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-	/** 
-	 * ${1:Comment} 
-	 **/
+/** 
+ * ${1:Comment} 
+ */
 ]]></content>
-	<tabTrigger>mycomm-function</tabTrigger>
+	<tabTrigger>cm-function</tabTrigger>
 	<description>MyComments - Simple function comment.</description>
 </snippet>

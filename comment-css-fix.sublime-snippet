@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * ${1:Comment}
+ * -------------------------------------------------------------------------------------------------- */
+]]></content>
+	<tabTrigger>cm-css-fix</tabTrigger>
+	<description>MyComments - CSS title section fixed.</description>
+</snippet>
